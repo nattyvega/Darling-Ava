@@ -119,61 +119,61 @@ add_action( 'genesis_before_header', 'genesis_do_nav' );
 //* Register widget areas
 genesis_register_sidebar( array(
 	'id'			=> 'sidebar-split-left',
-	'name'			=> __( 'Sidebar Split Left', 'divine' ),
-	'description'	=> __( 'This is the left side of the split sidebar', 'divine' ),
+	'name'			=> __( 'Sidebar Split Left', 'ava' ),
+	'description'	=> __( 'This is the left side of the split sidebar', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'			=> 'sidebar-split-right',
-	'name'			=> __( 'Sidebar Split Right', 'divine' ),
-	'description'	=> __( 'This is the right side of the split sidebar', 'divine' ),
+	'name'			=> __( 'Sidebar Split Right', 'ava' ),
+	'description'	=> __( 'This is the right side of the split sidebar', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'			=> 'sidebar-split-bottom',
-	'name'			=> __( 'Sidebar Split Bottom', 'divine' ),
-	'description'	=> __( 'This is the bottom of the split sidebar', 'divine' ),
+	'name'			=> __( 'Sidebar Split Bottom', 'ava' ),
+	'description'	=> __( 'This is the bottom of the split sidebar', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'before-content',
-	'name'        => __( 'Home - Before Content', 'divine' ),
-	'description' => __( 'This is the slider section on the home page.', 'divine' ),
+	'name'        => __( 'Home - Before Content', 'ava' ),
+	'description' => __( 'This is the slider section on the home page.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'home-slider',
-	'name'        => __( 'Home - Slider', 'divine' ),
-	'description' => __( 'This is the slider section on the home page.', 'divine' ),
+	'name'        => __( 'Home - Slider', 'ava' ),
+	'description' => __( 'This is the slider section on the home page.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'home-top',
-	'name'        => __( 'Home - Top', 'divine' ),
-	'description' => __( 'This is the top section of the home page.', 'divine' ),
+	'name'        => __( 'Home - Top', 'ava' ),
+	'description' => __( 'This is the top section of the home page.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'home-triple-bottom',
-	'name'        => __( 'Home - Triple Bottom', 'divine' ),
-	'description' => __( 'This is the bottom section of the home page.', 'divine' ),
+	'name'        => __( 'Home - Triple Bottom', 'ava' ),
+	'description' => __( 'This is the bottom section of the home page.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'home-double-bottom',
-	'name'        => __( 'Home - Double Bottom', 'divine' ),
-	'description' => __( 'This is the bottom section of the home page.', 'divine' ),
+	'name'        => __( 'Home - Double Bottom', 'ava' ),
+	'description' => __( 'This is the bottom section of the home page.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'category-index',
-	'name'        => __( 'Category Index', 'divine' ),
-	'description' => __( 'This is the category index for the category index page template.', 'divine' ),
+	'name'        => __( 'Category Index', 'ava' ),
+	'description' => __( 'This is the category index for the category index page template.', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'			=> 'widget-above-header',
-	'name'			=> __( 'Widget Above Header', 'divine' ),
-	'description'	=> __( 'This is the widget area above the header', 'divine' ),
+	'name'			=> __( 'Widget Above Header', 'ava' ),
+	'description'	=> __( 'This is the widget area above the header', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'			=> 'widget-before-footer',
-	'name'			=> __( 'Widget Before Footer', 'divine' ),
-	'description'	=> __( 'This is the widget area above the header', 'divine' ),
+	'name'			=> __( 'Widget Before Footer', 'ava' ),
+	'description'	=> __( 'This is the widget area above the header', 'ava' ),
 ) );
 genesis_register_sidebar( array(
 	'id'          => 'nav-social-menu',
-	'name'        => __( 'Nav Social Menu', 'divine' ),
-	'description' => __( 'This is the nav social menu section.', 'divine' ),
+	'name'        => __( 'Nav Social Menu', 'ava' ),
+	'description' => __( 'This is the nav social menu section.', 'ava' ),
 ) );
